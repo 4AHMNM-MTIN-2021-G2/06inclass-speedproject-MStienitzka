@@ -11,7 +11,7 @@ public class RandomValuee : MonoBehaviour
 
    public void ValueButton()
    {
-        number = UnityEngine.Random.value;
+        number = UnityEngine.Random.Range(1.0f, 10.0f);
         value.text = number.ToString();
         MyData.randomValue = number;
     }

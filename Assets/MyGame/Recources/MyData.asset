@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07917e9e82e5a1c49ab5a1fca706d6e8, type: 3}
   m_Name: MyData
   m_EditorClassIdentifier: 
-  randomValue: 0
-  timestore: 1.9446378
+  randomValue: 3.7969298
+  timestore: 1.9386451
   myname: Max

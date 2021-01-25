@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class NameInput : MonoBehaviour
 {
-    InputField namefield;
+    [SerializeField] InputField namefield;
     string name;
     public MyScriptableObject MyData;
     
