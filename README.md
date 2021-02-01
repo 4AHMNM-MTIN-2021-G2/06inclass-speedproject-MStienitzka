@@ -1,28 +1,26 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+This is a speed clicking game. During the introScene the player has to type his name to get to the main scene where he has to click as fast as he can on the RandomValue Button and on the FinaScene Button to get good results. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 2019.4.18f1, Visual Studio Code
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Add it to your unity hub and start it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
+//
 ### Project state: 
-incl. progress in percent
-
-### Limitations: 
+99% done, code is not cleaned to its fullest
 
 ### Lessons Learned: 
+I learned how to script ScriptableObjects and how to program a timer and retunvalues
 
-Copyright by you :)
+Copyright by Max Stienitzka
